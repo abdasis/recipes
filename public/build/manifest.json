@@ -1,0 +1,15 @@
+{
+  "resources/sass/app.scss": {
+    "file": "assets/app.7c3c19f8.js",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.0ab00da0.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "resources/sass/app.scss"
+    ]
+  }
+}
